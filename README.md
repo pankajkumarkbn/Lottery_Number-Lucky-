@@ -1,2 +1,15 @@
-# Lottery_Number-Lucky-
+# Lottery_Number
+<img src="ss.gif">
 Simple app to generate random numbers.
+
+To run this program:
+
+
+<img src="1.jpg">
+
+Preview:
+
+
+<img src="2.jpg">
+
+<img src="3.jpg">
