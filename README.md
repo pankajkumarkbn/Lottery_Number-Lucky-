@@ -1,6 +1,6 @@
 # Lottery_Number
 <img src="ss.gif">
-Simple app to generate random numbers.
+Simple app to generate six digits random numbers.
 
 To run this program:
 
